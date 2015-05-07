@@ -1,0 +1,12 @@
+Proyecto Redes bayesianas.
+
+Proyecto para la asignatura de Sistemas de apoyo a la decisión del grado en ingeniería informática de gestión y sistemas de información de la escuela universitaria de ingeniería técnica industrial de Bilbao.
+
+Lenguajes:
+Java
+MySQL
+
+Autores:
+Jon Ander Fontan
+Helen J. Paz
+Egoitz Puerta
